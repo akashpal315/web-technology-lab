@@ -1,6 +1,7 @@
 # web-technology-lab
 # Image mapping in HTML5
 Code for image mapping map 1
+<!--
 <!Doctype HTML>
 <html>
 <head>
@@ -18,8 +19,10 @@ Code for image mapping map 1
 </map>
 </body>
 </html>
+-->
 
 Code for each continents
+<!--
 <!DOCTYPE html>
 <html>
 <head>
@@ -29,3 +32,4 @@ Code for each continents
 <img src="" alt="Smiley face" height="400" width="400">
 </body>
 </html>
+-->
